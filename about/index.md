@@ -64,6 +64,4 @@ I have been involved in the DIY movement since 2011 when I figured out I hated b
   - Successfully leaded  the funding off MM1 project in Kickstarter.
   - MakerMex sold over 1000 printers.
   - Over 5000 people has taken one of our workshops.
-- [Maker Faire Bay Area 2017 "Best in Class Red Ribbon"](https://makerfaire.com/maker/entry/60185)
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+  - [Maker Faire Bay Area 2017 "Best in Class Red Ribbon"](https://makerfaire.com/maker/entry/60185)
