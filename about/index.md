@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://luigipacheco.com"><b>Luis Arturo Pacheco</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://luigipacheco.com"><b>Luis Arturo Pacheco</b></a></center>
 
 # About Me  
 My real name is Luis Pacheco. I'm an architect graduated from La Salle Bajío in León Mexico with a Master in Robotics and Advanced Manufacturing from [IAAC](http://www.iaac.net) in Barcelona.
