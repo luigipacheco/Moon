@@ -5,9 +5,6 @@ date:   2016-04-06
 excerpt: "Project your data on the real world"
 project: true
 tag:
-- AR 
-- laser
-- arduino
 comments: false
 ---
 
