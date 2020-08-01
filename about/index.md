@@ -1,37 +1,69 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About me
+tags: [about, luigi, cv, curriculum]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://luigipacheco.com"><b>Luis Arturo Pacheco</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# About Me  
+My real name is Luis Pacheco. I'm an architect graduated from La Salle Bajío in León Mexico with a Master in Robotics and Advanced Manufacturing from [IAAC](http://www.iaac.net) in Barcelona.
+I have been involved in the DIY movement since 2011 when I figured out I hated building architectural models so instead I assembled a 3D printer to make them for me. This lead me to co-found [MakerMex](http://www.makermex.com) (2012) a digital manufacturing and robotics company with Sam and Juan Carlos. I been CEO of MakerMex since then.
 
-## Preview
+# Makermex projects:
+  - [MM1](https://www.kickstarter.com/projects/495547969/mm1-modular-3d-printer-customize-your-printing-exp) funded in kickstarter
+  - [Mi3](http://makermex.com/shop/product/impresora-3d-mi3-9)
+  - [DLP printer](http://makermex.com/shop/product/impresora-3d-m-uv-4)
+  - [MakerLab León](http://www.makerlableon.com)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+# IAAC MRAC projects:
+  - [AR Laser Projector](http://www.iaacblog.com/programs/ar-laser-projector/)
+  - [Construction Robotic Assistant](http://www.iaacblog.com/programs/construction-robotic-assistant-future-for-robotic-collaborative-fabrication/)
+  -  [An exploration on double-curved wooden panel fabrication](http://www.iaacblog.com/programs/exploration-possibility-double-curved-wooden-panels-fabrication/)
+  - [Path correction and obstacle detection for 3D printing](http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)
+  - [Plastic (pellet) Injection Tool](http://www.iaacblog.com/programs/injection-tool/)
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+# Other projects:
+  - [Mini Maker Faire Bajío (Lead Organizer)](https://www.bajio.makerfaire.com)
+  - [MakerSCAD](https://www.makerscad.com) sales, operations, documentation, marketing and support.
 
-## Getting Started
+# Key Strengths:
+  - Self-learning
+  - Creative problem solving
+  - Team and project managing
+  - Strategic thinking
+  - Resourceful
+  - Intuitive
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+# Technical familiarities
+  - Blender
+  - OpenSCAD
+  - Freecad
+  - Rhino+GH
+  - Three.js
+  - HTML/CSS
+  - Linux
+  - Python
+  - Arduino
+  - Javascript
+  - Git
+  - Autocad/LibreCAD
+  - Image Editing software
+  - Vector graphics editor software
+  - ERP/CRM usage and implementation
+  - Digital Fabrication
+    - 3D Printing (FDM, SLA, DLP)
+    - CNC 3 and 5 axis
+    - Robot control (Rhino + KUKA PRC/Robots)
+
+# Achievements
+  - First place CONCYTEG innovation price in small/medium business category.
+  - MIT Innovators under 35 México 2016
+  - Successfully leaded  the funding off MM1 project in Kickstarter.
+  - MakerMex sold over 1000 printers.
+  - Over 5000 people has taken one of our workshops.
+- [Maker Faire Bay Area 2017 "Best in Class Red Ribbon"](https://makerfaire.com/maker/entry/60185)
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
