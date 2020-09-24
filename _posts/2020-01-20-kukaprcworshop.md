@@ -14,7 +14,7 @@ Creative Robotics workshops aim to investigate the state-of-the-art application 
 
 ## Learning Objectives
 
-Students will be introduced to emergent technologies and methodologies such as parametric design and control of a KUKA industrial robotic arm using tools such Rhino, Grasshopper & KUKA|prc. Key concepts introduced will be the workflow involved with integrating automation and robotics within a creative environment for rapid prototyping & new fabrication methods. Students will walk away with fundamental knowledge of Rhino, Grasshopper & KUKA|prc. They will be prepared to conceptualize, program and run robotic programs through the software and ideas raised over the intensive five day workshop. This includes the creation, exportation and running of KUKA Robot Language (KRL) via parametric modelling tools.
+Students will be introduced to emergent technologies and methodologies such as parametric design and control of a KUKA industrial robotic arm using tools such Rhino, Grasshopper & KUKA|prc. Key concepts introduced will be the workflow involved with integrating automation and robotics within a creative environment for rapid prototyping & new fabrication methods. Students will walk away with fundamental knowledge of Rhino, Grasshopper & KUKA/prc. They will be prepared to conceptualize, program and run robotic programs through the software and ideas raised over the intensive five day workshop. This includes the creation, exportation and running of KUKA Robot Language (KRL) via parametric modelling tools.
 
 ## TUTORS
 
@@ -30,10 +30,8 @@ Luis Pacheco is a graduate architect from University of La Salle Bajío México 
 
 
 <figure>
-	<a href="img/schedule.png"></a>
+	<a href="assets/img/schedule.png"></a>
 	<figcaption>Workshop Schedule</figcaption>
 </figure>
 
-{% highlight html %}
 <a href="http://makermex.com/event/creative-robotics-workshop-2020-01-13-2020-01-18-96/register" class="btn btn-success">REGISTER</a>
-{% endhighlight %}
