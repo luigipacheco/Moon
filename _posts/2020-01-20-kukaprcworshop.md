@@ -3,7 +3,7 @@ layout: post
 title: "KUKA creative robot fabrication"
 date: 2020-01-23
 excerpt: "First workshop with Karl Singline in Mexico"
-tags: [robots , kukprc, rhino, grasshopper, digitalfabrication]
+tags: [robots , kukprc, rhino, grasshopper, digital fabrication]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
@@ -28,6 +28,6 @@ Andres is a software trainer and developer since the 1980s. He has developed app
 ### Luis Pacheco
 Luis Pacheco is a graduate architect from University of La Salle Bajío México with a master in Robotics and Advanced Construction from the Institute of Advanced Architecture of Catalonia (IAAC), co-founder of MakerMex first Mexican 3D printer manufacturing company and recognized as MIT's Innovators under 35 Mexico 2016.
 
-![Schedule(img/schedule.png)    
+![Schedule](img/schedule.png)    
 
 <a href="http://makermex.com/event/creative-robotics-workshop-2020-01-13-2020-01-18-96/register" class="btn btn-success">REGISTER</a>
