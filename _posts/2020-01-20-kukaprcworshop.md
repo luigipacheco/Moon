@@ -33,3 +33,7 @@ Luis Pacheco is a graduate architect from University of La Salle Bajío México 
 	<a href="img/schedule.png"></a>
 	<figcaption>Workshop Schedule</figcaption>
 </figure>
+
+{% highlight html %}
+<a href="http://makermex.com/event/creative-robotics-workshop-2020-01-13-2020-01-18-96/register" class="btn btn-success">REGISTER</a>
+{% endhighlight %}
