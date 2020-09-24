@@ -14,9 +14,7 @@ Creative Robotics workshops aim to investigate the state-of-the-art application 
 
 ## Learning Objectives
 
-Students will be introduced to emergent technologies and methodologies such as parametric design and control of a KUKA industrial robotic arm using tools such Rhino, Grasshopper & KUKA|prc. Key concepts introduced will be the workflow involved with integrating automation and robotics within a creative environment for rapid prototyping & new fabrication methods.
-
-Students will walk away with fundamental knowledge of Rhino, Grasshopper & KUKA|prc. They will be prepared to conceptualize, program and run robotic programs through the software and ideas raised over the intensive five day workshop. This includes the creation, exportation and running of KUKA Robot Language (KRL) via parametric modelling tools.
+Students will be introduced to emergent technologies and methodologies such as parametric design and control of a KUKA industrial robotic arm using tools such Rhino, Grasshopper & KUKA|prc. Key concepts introduced will be the workflow involved with integrating automation and robotics within a creative environment for rapid prototyping & new fabrication methods. Students will walk away with fundamental knowledge of Rhino, Grasshopper & KUKA|prc. They will be prepared to conceptualize, program and run robotic programs through the software and ideas raised over the intensive five day workshop. This includes the creation, exportation and running of KUKA Robot Language (KRL) via parametric modelling tools.
 
 ## TUTORS
 
@@ -28,10 +26,10 @@ Karl Singline is a graduate architect and roboticist from Australia. After gradu
 Andres is a software trainer and developer since the 1980s. He has developed applications for diverse esign markets as well as training materials for different CAD and design software products including AEC Metric PRO, Mepal Draw, and the Integrator (BIM) for AutoCAD (2010-2014), as well as the community of training materials www.rhino3d.tv for Rhinoceros®. Andres has been working with the Rhinoceros® team since the very early stages; he is now the head of the McNeel Southeast US & Latin American Division. He also serves as the worldwide director of the Computational Design and Fabrication community called RhinoFabStudio® , in addition to the Generative Jewelry & Fashion Design community GJD3D , and Generative Furniture Design community GFD3D . Andres has written numerous multimedia learning products for Rhinoceros®, Flamingo, Grasshopper, RhinoCAM, etc. His latest work is related to a card game, Sudohopper3D, which draws on fundamental thinking processes to interactively learn generative and computational design.
 
 ### Luis Pacheco
-Luis Pacheco is a graduate architect from University of La Salle Bajío México with a master in Robotics and Advanced Construction from the Instiutute of Advanced Architecture of Catalonia (IAAC), co-founder of MakerMex first mexican 3D printer manufacturing company and recognized as MIT's Innovators under 35 Mexico 2016.
+Luis Pacheco is a graduate architect from University of La Salle Bajío México with a master in Robotics and Advanced Construction from the Institute of Advanced Architecture of Catalonia (IAAC), co-founder of MakerMex first Mexican 3D printer manufacturing company and recognized as MIT's Innovators under 35 Mexico 2016.
 
 
 <figure>
-	<a href="img/schadule.png"></a>
-	<figcaption> title="Workshop Schedule">Workshop Schedule</a>.</figcaption>
+	<a href="img/schedule.png"></a>
+	<figcaption>Workshop Schedule</figcaption>
 </figure>
