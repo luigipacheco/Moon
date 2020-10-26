@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Obstacle detection and path correction for real time 3D printing"
-date:   2019-03-19
+date:   2018-03-18
 excerpt: "Obstacle detection and path correction for real time 3D printing"
 project: true
 tag:

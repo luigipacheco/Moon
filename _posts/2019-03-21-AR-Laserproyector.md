@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AR Laser Projector"
-date:   2019-04-06
+date:   2018-04-06
 excerpt: "Project your data on the real world"
 project: true
 tags: [iaac , arduino, augumented reality, laser, architecture]
