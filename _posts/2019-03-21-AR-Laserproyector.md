@@ -4,14 +4,14 @@ title:  "AR Laser Projector"
 date:   2019-04-06
 excerpt: "Project your data on the real world"
 project: true
-tags: [iaac , arduino, argumented reality, laser, architecture]
+tags: [iaac , arduino, augumented reality, laser, architecture]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
 
 ![AR- Laser projector](/assets/img/laserprojector.jpg)    
 
-<center><b>Moon</b> Argumented Reality Laser Projector .</center>
+<center> Augumented Reality Laser Projector .</center>
 
 The goal for this project is to be able to project 2D drawings on 3D surfaces with a moving laser.
 
