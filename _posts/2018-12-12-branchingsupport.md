@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Targeted branch growth algorithm"
-date:   2019-12-12
+date:   2018-12-12
 excerpt: "Growing support structures for 3D printing."
 project: true
 tag:
