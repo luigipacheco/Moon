@@ -27,8 +27,8 @@ This project was designed for a workshop in IAAC as part for  the Master in Robo
 - Grasshopper feedback and path generation.
 - Clay printing
 
-!Cosnstruction Robotic Assistant](/assets/img/obstacle.gif)    
+![Obstacle detection](/assets/img/obstacle.gif)    
 
 Learn more:
 
-(IAAC BLOG)[http://www.iaacblog.com/programs/construction-robotic-assistant-future-for-robotic-collaborative-fabrication/]
+[IAAC BLOG](http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)
