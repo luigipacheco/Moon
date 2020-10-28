@@ -1,19 +1,26 @@
 ---
 layout: page
 title: About me
-tags: [about, luigi, cv, curriculum]
+tags: [about, cv, curriculum, resume]
 date: 2016-03-21
 comments: false
 ---
-    
+
 <center><a href="http://luigipacheco.com"><b>Luis Arturo Pacheco</b></a></center>
 
 # About Me  
-My real name is Luis Pacheco. I'm an architect graduated from La Salle Bajío in León Mexico with a Master in Robotics and Advanced Manufacturing from [IAAC](http://www.iaac.net) in Barcelona.
-I have been involved in the DIY movement since 2011 when I figured out I hated building architectural models so instead I assembled a 3D printer to make them for me. This lead me to co-found [MakerMex](http://www.makermex.com) (2012) a digital manufacturing and robotics company with Sam and Juan Carlos. I been CEO of MakerMex since then.
+I graduated from La Salle Bajío in León Mexico with a degree in architecture. I also have a Master in Robotics and Advanced Construction from [IAAC](http://www.iaac.net) in Barcelona. This master specializes in new technologies for design and digital manufacturing in the architecture and construction industry.
+I have been involved in the DIY/Maker movement since 2011 when I started using 3D printing to make architectural models, eventually I assembled a 3D printer which lead me to co-found [MakerMex](http://www.makermex.com) (2012) the first Mexican company to develop and manufacture 3D printers. I directed operations and projects in MakerMex from 2012 - 2020.
+
+# Interests
+
+  - Digital design (3D modeling)
+  - Parametric & generative design
+  - Digital Manufacturing
+  - Robotics
 
 # Makermex projects:
-  - [MM1](https://www.kickstarter.com/projects/495547969/mm1-modular-3d-printer-customize-your-printing-exp) funded in kickstarter
+  - [MM1](https://www.kickstarter.com/projects/495547969/mm1-modular-3d-printer-customize-your-printing-exp) funded in Kickstarter
   - [Mi3](http://makermex.com/shop/product/impresora-3d-mi3-9)
   - [DLP printer](http://makermex.com/shop/product/impresora-3d-m-uv-4)
   - [MakerLab León](http://www.makerlableon.com)
@@ -39,19 +46,20 @@ I have been involved in the DIY movement since 2011 when I figured out I hated b
 
 # Technical familiarities
   - Blender
-  - OpenSCAD
+  - Revit/Archicad
   - Freecad
-  - Rhino+GH
+  - Autocad
+  - Rhino
+  - Grasshopper
   - Three.js
-  - HTML/CSS
+  - Web design (HTML/CSS)
   - Linux
   - Python
   - Arduino
   - Javascript
   - Git
-  - Autocad/LibreCAD
-  - Image Editing software
-  - Vector graphics editor software
+  - Image Editing software (Photoshop / GIMP)
+  - Vector graphics (Illustrator)
   - ERP/CRM usage and implementation
   - Digital Fabrication
     - 3D Printing (FDM, SLA, DLP)
