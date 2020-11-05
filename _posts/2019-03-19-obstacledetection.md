@@ -8,7 +8,7 @@ tag:
 - iaac
 - grasshopper
 - arduino
-- 3Dprinter
+- 3D printer
 - KUKA
 comments: False
 ---
