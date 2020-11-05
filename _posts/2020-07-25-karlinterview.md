@@ -3,7 +3,7 @@ layout: post
 title:  "Digital Manufacturing with KUKA//PRC"
 date:   2020-07-25
 excerpt: "Introduction to KUKA PRC with Karl Singline."
-project: true
+project: false
 tag:
 - architecture
 - digital manufacturing
