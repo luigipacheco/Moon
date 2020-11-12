@@ -10,4 +10,4 @@ comments: false
 
 ## Live Youtube video
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/BAfmIMqmotM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the interview with Karl](https://youtu.be/BAfmIMqmotM)
